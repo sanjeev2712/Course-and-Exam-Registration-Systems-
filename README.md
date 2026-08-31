@@ -1,8 +1,8 @@
 # Course-Reservation-and-Exam-registration-systems
 
-# Reg No:
-# Name:
-# Date:
+# Reg No: 212225230246
+# Name: Sanjeev Kumar.K
+# Date: 31/08/2026
 
 
 # AIM:
@@ -40,7 +40,7 @@ Specifying the context and requirements of a system
 → Modeling the basic flow of events in a sina use case.
 
 
-
+![alt text](<Screenshot 2026-08-31 201238.png>)
 
 
 
@@ -59,6 +59,7 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
+![alt text](<Screenshot 2026-08-31 202957.png>)
 
 
 # COMMUNICTION DIAGRAM:
@@ -67,7 +68,7 @@ A communication diagram offers the same information as a sequence diagram, but w
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
-
+![alt text](<Screenshot 2026-08-31 212711.png>)
 
 
 # PACKAGE DIAGRAM:
@@ -81,7 +82,7 @@ A well-designed package diagram provides numerous benefits to those looking to c
 
 
 
-
+![alt text](<Screenshot 2026-08-31 213101.png>)
 
 
 
@@ -98,7 +99,7 @@ Demonstrate the logic of an algorithm.
 Describe the steps performed in a UML use case.
 
 
-
+![alt text](<Screenshot 2026-08-31 213250.png>)
 
 
 # SEQUENCE DIAGRAM
@@ -120,7 +121,7 @@ Plan and understand the detailed functionality of an existing or future scenario
 
 
 
-
+![alt text](<Screenshot 2026-08-31 213314.png>)
 
 
 # RESULT
